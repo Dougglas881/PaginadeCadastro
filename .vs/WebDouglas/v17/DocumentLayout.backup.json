@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\views\\departaments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\views\\departaments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\controllers\\departamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\controllers\\departamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\models\\viewmodel\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\models\\viewmodel\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|c:\\users\\douglas.ronaldo\\source\\repos\\webdouglas\\webdouglas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D42ACDB-2CBC-4CDC-89A0-34D64571F2ED}|WebDouglas\\WebDouglas.csproj|solutionrelative:webdouglas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Views\\Departaments\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDouglas\\Views\\Departaments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Views\\Departaments\\Index.cshtml",
+              "RelativeToolTip": "WebDouglas\\Views\\Departaments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T19:43:10.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Controllers\\DepartamentsController.cs",
+              "RelativeDocumentMoniker": "WebDouglas\\Controllers\\DepartamentsController.cs",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Controllers\\DepartamentsController.cs",
+              "RelativeToolTip": "WebDouglas\\Controllers\\DepartamentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:28:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Models\\Departament.cs",
+              "RelativeDocumentMoniker": "WebDouglas\\Models\\Departament.cs",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Models\\Departament.cs",
+              "RelativeToolTip": "WebDouglas\\Models\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:24:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebDouglas\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebDouglas\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T19:19:49.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDouglas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebDouglas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T19:18:27.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Program.cs",
+              "RelativeDocumentMoniker": "WebDouglas\\Program.cs",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Program.cs",
+              "RelativeToolTip": "WebDouglas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:18:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebDouglas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebDouglas\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:16:30.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Models\\ViewModel\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebDouglas\\Models\\ViewModel\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\Models\\ViewModel\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebDouglas\\Models\\ViewModel\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:14:41.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
