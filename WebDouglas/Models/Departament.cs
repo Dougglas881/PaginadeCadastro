@@ -2,7 +2,7 @@
 {
     public class Departament
     {
-        public int Id { get; set; }
+        public int Is { get; set; }
         public string Name { get; set; }
 
 

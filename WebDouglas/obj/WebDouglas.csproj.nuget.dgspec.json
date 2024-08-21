@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\WebDouglas.csproj": {}
+    "D:\\Pasta_C#\\WebDouglas\\WebDouglas\\WebDouglas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\WebDouglas.csproj": {
+    "D:\\Pasta_C#\\WebDouglas\\WebDouglas\\WebDouglas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\WebDouglas.csproj",
+        "projectUniqueName": "D:\\Pasta_C#\\WebDouglas\\WebDouglas\\WebDouglas.csproj",
         "projectName": "WebDouglas",
-        "projectPath": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\WebDouglas.csproj",
+        "projectPath": "D:\\Pasta_C#\\WebDouglas\\WebDouglas\\WebDouglas.csproj",
         "packagesPath": "C:\\Users\\douglas.ronaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\obj\\",
+        "outputPath": "D:\\Pasta_C#\\WebDouglas\\WebDouglas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

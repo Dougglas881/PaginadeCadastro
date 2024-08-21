@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDouglas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c1ff2c11243bbb3688488cfec086f36f32f0707")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDouglas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDouglas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

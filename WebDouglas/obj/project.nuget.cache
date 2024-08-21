@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qeq7AajcuXg=",
+  "dgSpecHash": "yHjCURopOMQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\douglas.ronaldo\\source\\repos\\WebDouglas\\WebDouglas\\WebDouglas.csproj",
+  "projectFilePath": "D:\\Pasta_C#\\WebDouglas\\WebDouglas\\WebDouglas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\douglas.ronaldo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\douglas.ronaldo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
